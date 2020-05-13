@@ -52,6 +52,7 @@ body {
   position: relative;
   width: 75%;
   margin: 1rem auto;
+  
 }
 .save-button {
   position: absolute;
@@ -74,4 +75,8 @@ body {
 .movie-warning {
   color: red;
   text-align: center;
+}
+
+.updateForm{
+  margin: 0 15%;
 }
